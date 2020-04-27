@@ -1,2 +1,0 @@
-# publik2
-bot
